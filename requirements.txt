@@ -1,1 +1,1 @@
-mysql_connector_repackaged==8.0
+mysql_connector_repackaged==8.0.28
